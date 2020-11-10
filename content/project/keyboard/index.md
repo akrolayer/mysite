@@ -1,22 +1,22 @@
 ---
 title: キーボード関連
-summary: キーボードそのものからキーバインド設定、自作キーボード、配列変更など
+summary: キーボード入力最適化の記事をさくらのナレッジ様にて執筆いたしました。興味は高級キーボード、キーバインド設定、自作キーボード、配列変更など
 tags:
 - other
-date: "2016-04-27T00:00:00Z"
+date: "2020-11-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+#image:
+#  caption: Photo by rawpixel on Unsplash
+#  focal_point: Smart
 
 # links:
 # - icon: twitter
 #   icon_pack: fab
 #   name: Follow
-#   url: https://twitter.com/georgecushen
+#   url: https://twitter.com/akrolayer
 # url_code: ""
 # url_pdf: ""
 # url_slides: ""
@@ -37,4 +37,12 @@ slides: example
 配列はeucalyn配列をメインで使用しています。Dvorak配列は練習中です。WORKMAN配列は興味があります。かな入力は薙刀式に挫折し、新下駄配列を練習中です。
 
 キーバインド設定はWindowsではAutoHotKey、MacではKarabiner-Elementsを用いて設定しています。なるべくホームポジションから手を動かさずにPC操作ができるように考えて実装しています。このための本を書きました。
+
+また、さくらのナレッジ様にて、記事を執筆しております。
+
+[快適キーボード操作のためのキーカスタマイズ 〜Windows編〜](https://knowledge.sakura.ad.jp/23305/)
+
+[快適キーボード操作のためのキーカスタマイズ  ～Mac編～](https://knowledge.sakura.ad.jp/23355/)
+
+[快適キーボード操作のためのキーカスタマイズ 〜AutoHotKeyのキー押しっぱなし問題とScrollLockの非推奨～](https://knowledge.sakura.ad.jp/25827/)
 

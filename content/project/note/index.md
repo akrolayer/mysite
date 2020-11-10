@@ -3,7 +3,7 @@ title: NOTE
 summary: 思ったことを書いている場所
 tags:
 - Blog
-date: "2016-04-27T00:00:00Z"
+date: "2020-11-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://note.com/gomana2
