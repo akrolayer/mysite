@@ -1,6 +1,6 @@
 ---
-title: SPEEKERDECK
-summary: 登壇資料置き場です
+title: SPEAKERDECK
+summary: 登壇資料置き場
 tags:
 - other
 date: "2020-11-10T00:00:00Z"
