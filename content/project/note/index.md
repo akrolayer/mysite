@@ -1,6 +1,6 @@
 ---
 title: NOTE
-summary: 思ったことを書いている場所
+summary: 趣味であるDDRの上達に関する記事を執筆
 tags:
 - Blog
 date: "2020-11-10T00:00:00Z"
