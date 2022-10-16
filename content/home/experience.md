@@ -18,12 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "SES Engineer"
+  company = "某都内SES企業"
+  company_url = ""
+  location = "東京"
+  date_start = "2021-04-01"
+  date_end = ""
+  description = """
+  主な業務スキル:
+  
+  * VB.NET
+  * git
+  * HTML,CSS
+  * JavaScript
+  * Microsoft SQL Server
+  * PowerApps,PowerAutimate
+
+  """
+[[experience]]
   title = "C#.NET Engineer"
   company = "ケーブルテレビ機器開発企業"
   company_url = ""
-  location = "California"
+  location = "神奈川"
   date_start = "2018-01-01"
-  date_end = ""
+  date_end = "2021-01-01"
   description = """
   主な業務スキル:
   

@@ -46,3 +46,9 @@ slides: example
 
 [快適キーボード操作のためのキーカスタマイズ 〜AutoHotKeyのキー押しっぱなし問題とScrollLockの非推奨～](https://knowledge.sakura.ad.jp/25827/)
 
+[IME設定でできるキーボード入力効率化 ～Windows編～](https://knowledge.sakura.ad.jp/27066/)
+
+[IME設定でできるキーボード入力効率化 ～Mac編～](https://knowledge.sakura.ad.jp/27258/)
+
+[すっきりシンプルに！Windowsの新しいIME設定](https://knowledge.sakura.ad.jp/32509/)
+
