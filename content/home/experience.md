@@ -33,6 +33,7 @@ date_format = "Jan 2006"
   * JavaScript
   * Microsoft SQL Server
   * PowerApps,PowerAutimate
+  * C#
 
   """
 [[experience]]
@@ -47,6 +48,7 @@ date_format = "Jan 2006"
   
   * C#.NET
   * git
+  * Manufacturing Optimization
   """
 
 # [[experience]]
