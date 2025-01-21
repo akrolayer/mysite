@@ -22,8 +22,23 @@ date_format = "Jan 2006"
   company = "某都内SES企業"
   company_url = ""
   location = "東京"
-  date_start = "2021-04-01"
+  date_start = "2024-02-01"
   date_end = ""
+  description = """
+  主な業務スキル:
+  
+  * git
+  * HTML,CSS
+  * Microsoft SQL Server
+  * C#
+  """
+[[experience]]
+  title = "SES Engineer"
+  company = "某都内SES企業"
+  company_url = ""
+  location = "東京"
+  date_start = "2021-04-01"
+  date_end = "2024-01-01"
   description = """
   主な業務スキル:
   
